@@ -1,0 +1,19 @@
+! Dracula Xresources palette
+*.foreground: #F8F8F2
+*.background: #161D38
+*.color0:     #29315A
+*.color8:     #613E9F
+*.color1:     #E356A7
+*.color9:     #FF79C6
+*.color2:     #42E66C
+*.color10:    #50FA7B
+*.color3:     #E4F34A
+*.color11:    #F1FA8C
+*.color4:     #9B6BDF
+*.color12:    #BD93F9
+*.color5:     #E64747
+*.color13:    #FF5555
+*.color6:     #44D1EF
+*.color14:    #70D2E6
+*.color7:     #EFA554
+*.color15:    #FFB86C
